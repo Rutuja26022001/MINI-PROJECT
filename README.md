@@ -34,9 +34,11 @@ In the process of learning Python Programming Language, I tried executing all co
 
 ### Plotting Covid-19 cases and deaths by states with best fit curve
 
-####3 Objectives- EDA and Curve fitting
+#### 3 Objectives- 
 
-####3 Conclusion:
+- EDA and Curve fitting
+
+#### 3 Conclusion:
 
 -  Sub-data frame of california's total cases and days do not follow the stated distribution.
 - Since we used exponential function of numpy.random for creating a random data, the data is following exponential distribution.
